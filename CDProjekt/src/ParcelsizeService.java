@@ -3,8 +3,10 @@ public class ParcelsizeService {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello Parcelservice!");
+		System.out.println("Hello Parcelservice. Hello Jenkins!");
 
 	}
+	
+	
 
 }
